@@ -4,7 +4,9 @@
 ## Codility Solutions
 (https://codility.com/programmers/lessons)
 
-This contains the ipython notebook and code for my submission to Kaggle's Digit Recognizer competition
+This contains the python code for my submissions to Codility's lessons challenges.
+
+Codility is a platform that allows companies to evaluate the programming skills of a coder, it analyzes the algorithm's performance through time and space complexity. It also hosts programming competitions every now and then.
 
 Notes:
  - The solutions for each lessons are stored to its corresponding folder.
